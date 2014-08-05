@@ -8,10 +8,22 @@ lirangeFE
 ##展望
 主要从以下几个方面入手
 
-###工具
+###一.工具(develop tool)
 工其事，必利于器
-版本控制(svn，git)
-开发工具(EditPlus,Sublime Text)
-调试工具(console,Fierbug)
-追踪工具(tracker)
-###
+
+	####版本控制(svn，git)
+
+	####开发工具(EditPlus,Sublime Text)
+
+	####调试工具(console,Fierbug)
+
+	####追踪工具(tracker)
+
+	###代码构建工具(grunt)
+
+###二.组件(Web Components)
+
+
+###三.动画(svg,canvas,css3)
+
+###四.设计(font icon,svg icon)
