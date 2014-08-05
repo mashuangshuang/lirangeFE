@@ -3,6 +3,7 @@ lirangeFE
 
 荔橙前端回顾与展望
 
+
 ##回顾
 主要是对于以前项目开发过程中遇到的问题做一个总结；
 ##展望
@@ -65,4 +66,7 @@ ps了解,切图，icon制作，移动平台尺寸[尺寸](http://chicun.in/index
 展现形式：gif,草图(说明步骤)，demo														
 例如[MEworkshop动效库](http://huaban.com/ttl9dmur55/pins/)
 
-###十一.框架(yii,)
+###十一.框架(yii,bootstrap)
+
+##结果
+高质量，高效率，高合作，非常愉快的完成项目的开发;
