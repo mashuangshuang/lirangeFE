@@ -6,13 +6,16 @@ lirangeFE
 
 ##回顾
 主要是对于以前项目开发过程中遇到的问题做一个总结；
+###开发规范
+
+###bug库
+构建一个bug库,包括微博应用申请一些细节问题，
+问题说明，如何解决，demo地址，添加日期，更新日期，维护者等等
+###浏览器兼容性
+
+###协作开发
+
 ##展望
-
-###
-
-###
-
-###
 
 主要从以下几个方面入手
 
@@ -34,7 +37,9 @@ ftp，svn配置，快捷键，常用的插件介绍
 ####5.代码构建工具(grunt,flus)
 对于需要反复重复的任务，例如压缩、编译、单元测试、代码检查等，自动化工具可以减轻你的劳动，简化工作。
 
-通过学习来创建微信应用，微博应用的目录结构；例如[微信app](https://github.com/mashuangshuang/lirangeProject)
+通过学习来创建微信应用，微博应用的目录结构；例如[微信app](https://github.com/			mashuangshuang/lirangeProject)
+MVC开发模式
+
 ###二.深入html(html5),js(jquery,zepto),css(css3)
 
 ###三.组件(Web Components)
