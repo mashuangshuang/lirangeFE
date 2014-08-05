@@ -18,19 +18,19 @@ lirangeFE
 ###一.工具(develop tool)
 工其事，必利于器
 
-####版本控制(svn,git)
+####1.版本控制(svn,git)
 安装，配置，使用
 
-####开发工具(EditPlus,Sublime Text)
+####2.开发工具(EditPlus,Sublime Text)
 ftp，svn配置，快捷键，常用的插件介绍
 
-####调试工具(google console,firefox Fierbug)
+####3.调试工具(google console,firefox Fierbug)
 审查元素，js单步调试，样式修改
 
-####追踪工具(tracker)
+####4.追踪工具(tracker)
 浏览器书签栏的 JavaScript 嗅探工具，协助您了解目标网页中 JavaScript 的运行情况，包括：执行覆盖率、执行行数、是否存在执行或语法错误等信息
 
-####代码构建工具(grunt,flus)
+####5.代码构建工具(grunt,flus)
 对于需要反复重复的任务，例如压缩、编译、单元测试、代码检查等，自动化工具可以减轻你的劳动，简化工作。
 
 通过学习来创建微信应用，微博应用的目录结构；
@@ -44,6 +44,10 @@ ftp，svn配置，快捷键，常用的插件介绍
 后续可以继续追加；
 
 ###四.交互与动画(svg,canvas,css3,贝塞尔曲线)
+svg介绍，svg使用，svg场景                                   
+canvas介绍，使用，场景
+css3各个属性的介绍，使用，场景
+
 
 ###五.设计
 ps了解,切图，icon制作，移动平台尺寸[尺寸](http://chicun.in/index.html)
