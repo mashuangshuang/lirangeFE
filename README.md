@@ -33,7 +33,7 @@ ftp，svn配置，快捷键，常用的插件介绍
 ####5.代码构建工具(grunt,flus)
 对于需要反复重复的任务，例如压缩、编译、单元测试、代码检查等，自动化工具可以减轻你的劳动，简化工作。
 
-通过学习来创建微信应用，微博应用的目录结构；例如[](https://github.com/mashuangshuang/lirangeProject)
+通过学习来创建微信应用，微博应用的目录结构；例如[微信app](https://github.com/mashuangshuang/lirangeProject)
 ###二深入html(html5),js(jquery,zepto),css(css3)
 
 ###三.组件(Web Components)
