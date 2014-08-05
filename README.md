@@ -6,6 +6,13 @@ lirangeFE
 ##回顾
 主要是对于以前项目开发过程中遇到的问题做一个总结；
 ##展望
+
+###
+
+###
+
+###
+
 主要从以下几个方面入手
 
 ###一.工具(develop tool)
@@ -19,7 +26,7 @@ lirangeFE
 
 ####追踪工具(tracker)
 
-####代码构建工具(grunt)
+####代码构建工具(grunt,flus)
 
 通过学习来创建微信应用，微博应用的目录结构；
 ###二深入html(html5),js(jquery,zepto),css(css3)
@@ -27,7 +34,7 @@ lirangeFE
 ###三.组件(Web Components)
 搭建一个平台，用来存放公共组件库，后续的项目开发中直接拿来使用；
 组件包括网上开源的组件和自己开发的组件
-如上传，slider,编辑器，iscrolljs，touch，chart
+如上传，提示，slider,编辑器，iscrolljs，touch，chart,GUM,瀑布流
 
 ###四.交互与动画(svg,canvas,css3,贝塞尔曲线)
 
@@ -41,4 +48,4 @@ lirangeFE
 
 ###八.资源总结
 
-###九.新的开发语言(sass,nodejs,前端模板)
+###九.新的开发语言(前端模板,sass,nodejs,mongoDB)
