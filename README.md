@@ -26,7 +26,7 @@ lirangeFE
 ftp，svn配置，快捷键，常用的插件介绍
 
 ####3.调试工具(google console,firefox Fierbug)
-审查元素，js单步调试，样式修改
+审查元素，js单步调试，样式修改等等
 
 ####4.追踪工具(tracker)
 浏览器书签栏的 JavaScript 嗅探工具，协助您了解目标网页中 JavaScript 的运行情况，包括：执行覆盖率、执行行数、是否存在执行或语法错误等信息
@@ -35,7 +35,7 @@ ftp，svn配置，快捷键，常用的插件介绍
 对于需要反复重复的任务，例如压缩、编译、单元测试、代码检查等，自动化工具可以减轻你的劳动，简化工作。
 
 通过学习来创建微信应用，微博应用的目录结构；例如[微信app](https://github.com/mashuangshuang/lirangeProject)
-###二深入html(html5),js(jquery,zepto),css(css3)
+###二.深入html(html5),js(jquery,zepto),css(css3)
 
 ###三.组件(Web Components)
 搭建一个平台，用来存放公共组件库，后续的项目开发中直接拿来使用；
