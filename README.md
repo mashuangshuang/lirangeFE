@@ -29,7 +29,7 @@ lirangeFE
 
 ###四.设计
 icon
-移动平台尺寸
+移动平台尺寸[尺寸](http://chicun.in/index.html)
 ###五.博客(github)
 通过github搭建一个属于自己的博客，来掌握git,markdown等知识；
 
