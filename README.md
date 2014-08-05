@@ -11,7 +11,7 @@ lirangeFE
 ###一.工具(develop tool)
 工其事，必利于器
 
-####版本控制(svn，git)
+####版本控制(svn,git)
 
 ####开发工具(EditPlus,Sublime Text)
 
@@ -27,7 +27,7 @@ lirangeFE
 ###三.组件(Web Components)
 搭建一个平台，用来存放公共组件库，后续的项目开发中直接拿来使用；
 组件包括网上开源的组件和自己开发的组件
-如上传，slider,编辑器，iscrolljs，touch
+如上传，slider,编辑器，iscrolljs，touch，chart
 
 ###四.交互与动画(svg,canvas,css3,贝塞尔曲线)
 
@@ -41,4 +41,4 @@ lirangeFE
 
 ###八.资源总结
 
-###九.新的开发语言(sass,nodejs，前端模板)
+###九.新的开发语言(sass,nodejs,前端模板)
