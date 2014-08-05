@@ -19,15 +19,16 @@ lirangeFE
 
 ####追踪工具(tracker)
 
-###代码构建工具(grunt)
+####代码构建工具(grunt)
 
 ###二.组件(Web Components)
 搭建一个平台，用来存放公共组件库；
 
 ###三.动画(svg,canvas,css3)
 
-###四.设计(font icon,svg icon)
-
+###四.设计
+icon
+移动平台尺寸
 ###五.博客(github)
 
 ###六.资源总结
