@@ -33,7 +33,7 @@ ftp，svn配置，快捷键，常用的插件介绍
 ####5.代码构建工具(grunt,flus)
 对于需要反复重复的任务，例如压缩、编译、单元测试、代码检查等，自动化工具可以减轻你的劳动，简化工作。
 
-通过学习来创建微信应用，微博应用的目录结构；
+通过学习来创建微信应用，微博应用的目录结构；例如[](https://github.com/mashuangshuang/lirangeProject)
 ###二深入html(html5),js(jquery,zepto),css(css3)
 
 ###三.组件(Web Components)
@@ -45,7 +45,7 @@ ftp，svn配置，快捷键，常用的插件介绍
 
 ###四.交互与动画(svg,canvas,css3,贝塞尔曲线)
 svg介绍，svg使用，svg场景                                   
-canvas介绍，使用，场景
+canvas介绍，使用，场景																	
 css3各个属性的介绍，使用，场景
 
 
@@ -62,5 +62,7 @@ ps了解,切图，icon制作，移动平台尺寸[尺寸](http://chicun.in/index
 ###九.新的开发语言(前端模板,sass,nodejs,mongoDB)
 
 ###十.交互动效库(Mobile Experience Design)
-展现形式：gif,草图(说明步骤)，demo
+展现形式：gif,草图(说明步骤)，demo														
 例如[MEworkshop动效库](http://huaban.com/ttl9dmur55/pins/)
+
+###十一.框架(yii,)
