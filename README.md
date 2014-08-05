@@ -29,7 +29,7 @@ lirangeFE
 组件包括网上开源的组件和自己开发的组件
 如上传，slider,编辑器，iscrolljs，touch
 
-###四.动画(svg,canvas,css3,贝塞尔曲线)
+###四.交互与动画(svg,canvas,css3,贝塞尔曲线)
 
 ###五.设计
 切图，icon，移动平台尺寸[尺寸](http://chicun.in/index.html)
