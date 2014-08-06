@@ -18,18 +18,24 @@ WebRoot/protected/views/layouts: 此目录放置所有布局视图文件
 WebRoot/protected/views/        此目录下存放action视图文件																	
 以一个controller为view目录，以一个controller中action渲染相应view下的文件
 
-如：天风官网中信息公告为例																										controller/Noticep																										
+如：天风官网中信息公告为例																										
+
+controller/Noticep																										
 	action: Notice/company 	公司经营公告   	 view/about/comnpay.php															
 	action:	notice/employ   从业人员公告   	 view/about/amploy.php 														
 
 
 ##ui组件																													
-物件(widgets),组件(CComponent)，模块(module)  																				
+
+物件(widgets)
+组件(CComponent)：	
+模块(module) ：包含模型, 视图, 控制器 和其他支持的组件，大型应用可以划分成通用的功能，例如用户管理， 评论管理  																				
+
 常用的物件：menu,listview,CBreadcrumbs  									
 
 常用的组件：可以根据项目的实际情况进行开发；例如：天风官网中联系我们															
 
-常用的模块：form表单
+常用的模块：form表单，
 
 ##主要学习部分																														
 权威指南下：模型-视图-控制器 (MVC)，视图，组件，模块,开发规范，开发流程																
