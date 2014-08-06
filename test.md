@@ -27,8 +27,8 @@ controller/Noticep
 
 ##ui组件																													
 
-物件(widgets)
-组件(CComponent)：	
+物件(widgets)；																											
+组件(CComponent)：																												
 模块(module) ：包含模型, 视图, 控制器 和其他支持的组件，大型应用可以划分成通用的功能，例如用户管理， 评论管理  																				
 
 常用的物件：menu,listview,CBreadcrumbs  									
@@ -42,3 +42,4 @@ controller/Noticep
 类参考手册：zii-widgets,zii-widgets-grid,zii-widgets-jui
 
 ##其他注意的问题##
+路径问题：脚本路径，图片路径，链接路径都要通过yII输出
