@@ -42,4 +42,5 @@ controller/Noticep
 类参考手册：zii-widgets,zii-widgets-grid,zii-widgets-jui
 
 ##其他注意的问题##
-路径问题：脚本路径，图片路径，链接路径都要通过yII输出
+路径问题：脚本路径，图片路径，链接路径都要通过yII输出																			
+开发中遇到的问题，看看YII是否提供的相关解决方案，这就需要我们详细查阅api;
