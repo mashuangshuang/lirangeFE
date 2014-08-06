@@ -25,6 +25,14 @@ WebRoot/protected/views/        此目录下存放action视图文件
 
 ##ui组件																													
 物件(widgets),组件(CComponent)，模块(module)  																				
-常用的物件：menu,listview,CBreadcrumbs  									常用的组件：可以根据项目的实际情况进行开发；例如：天风官网中联系我们		
-##主要学习部分																												
-权威指南下：模型-视图-控制器 (MVC)，视图，组件，模块,开发规范，开发流程														类参考手册：zii-widgets,zii-widgets-grid,zii-widgets-jui
+常用的物件：menu,listview,CBreadcrumbs  									
+
+常用的组件：可以根据项目的实际情况进行开发；例如：天风官网中联系我们															
+
+常用的模块：form表单
+
+##主要学习部分																														
+权威指南下：模型-视图-控制器 (MVC)，视图，组件，模块,开发规范，开发流程																
+类参考手册：zii-widgets,zii-widgets-grid,zii-widgets-jui
+
+##其他注意的问题##
