@@ -27,9 +27,9 @@ controller/Noticep
 
 ##ui组件																													
 
-物件(widgets)；																											
-组件(CComponent)：																												
-模块(module) ：包含模型, 视图, 控制器 和其他支持的组件，大型应用可以划分成通用的功能，例如用户管理， 评论管理  																				
+###物件(widgets)；###																											
+###组件(CComponent)：###																												
+###模块(module) ###：包含模型, 视图, 控制器 和其他支持的组件，大型应用可以划分成通用的功能，例如用户管理， 评论管理  																				
 
 常用的物件：menu,listview,CBreadcrumbs  									
 
