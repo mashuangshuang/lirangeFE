@@ -38,7 +38,7 @@ controller/Noticep
 常用的模块：form表单，
 
 ##主要学习部分																														
-权威指南下：模型-视图-控制器 (MVC)，视图，组件，模块,开发规范，开发流程																
+权威指南下：模型-视图-控制器 (MVC)，视图，组件，模块，开发规范，开发流程																
 类参考手册：zii-widgets,zii-widgets-grid,zii-widgets-jui
 
 ##其他注意的问题##
