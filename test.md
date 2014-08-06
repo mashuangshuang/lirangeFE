@@ -14,7 +14,10 @@ WebRoot/protected/views/layouts: 此目录放置所有布局视图文件
 	WebRoot/protected/views/layouts								
 		|- full.php  												
 		|- main-left.php 
-
+WebRoot/protected/views/        此目录下存放action视图文件																	
+以一个controller为view目录，以一个controller中active渲染相应view下的文件													如：天风官网中信息公告为例																										controller :notice
+	action: notice/company 	公司经营公告
+	action:	notice/employ   从业人员公告
 ##ui组件 ()
 物件(widgets),组件(CComponent)，模块(module)
 
